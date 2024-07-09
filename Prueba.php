@@ -36,6 +36,7 @@
         <h1>Bienvenido a mi página PHP</h1>
         <h1>Bienvenido a mi página PHP</h1>
         <h1>Bienvenido a mi página PHP</h1>
+        <h1>Bienvenido a mi página PHP</h1>
         <p>Este es un ejemplo de un archivo PHP con HTML y CSS embebidos.</p>
         <?php
         echo "<p>Esta línea es generada por PHP.</p>";
